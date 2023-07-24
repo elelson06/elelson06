@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrés Edgardo Ventura</h1>
 <h3 align="center">Team Leader / Scrum Master / Fullstack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/workspace-audio-engineer-music-producer_53876-151.jpg?w=900&t=st=1689499423~exp=1689500023~hmac=9b3e2e06817b63f8203c37301bfd7c2197fe02700af83746ba6cf486cf7d1096">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elelson06&label=Profile%20views&color=0e75b6&style=flat" alt="elelson06" /> </p>
 
 - 🌱 I’m currently learning **Fullstack Blockchain Developer (Python/HTML-CSS-JS/Ethereum VM/Solidity)**
 
