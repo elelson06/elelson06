@@ -1,14 +1,15 @@
-## Hi there 👋
-## This is Andrés Ventura!
-### - *Team Leader / Scrum Master / Fullstack Developer* - 
+### Hi there 👋
+### This is Andrés Ventura!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/elelson06)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andresventura/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elelson06@gmail.com)
+
+Welcome to my Github page! I am Andrés and i have been working as Fullstack Developer, Team Leader, Scrum Master & Product Owner.
 
 <img align="right" alt="Coding" width="50%" height="auto" src="https://img.freepik.com/free-vector/workspace-audio-engineer-music-producer_53876-151.jpg?w=900&t=st=1689499423~exp=1689500023~hmac=9b3e2e06817b63f8203c37301bfd7c2197fe02700af83746ba6cf486cf7d1096">
 
-### 🌱 I’m currently learning *Fullstack Blockchain Developer*
+### 🌱 I’m currently learning Fullstack Blockchain Developer
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
@@ -27,7 +28,6 @@
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/> 
 </a> 
-
 
 #### :computer: Programming languages and tools: 
 <p align="left">
@@ -75,9 +75,11 @@
   </a> 
 </p>
 <p align="left">
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
   </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
@@ -87,6 +89,9 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/> 
   </a> 
 </p>
 <p align="left">
